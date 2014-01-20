@@ -1,0 +1,3 @@
+D:\IM\测试1\测试1\obj\x86\Debug\测试1.login.resources
+D:\IM\测试1\测试1\obj\x86\Debug\测试1.csproj.GenerateResource.Cache
+D:\IM\测试1\测试1\obj\x86\Debug\测试1.Properties.Resources.resources
